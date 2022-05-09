@@ -44,9 +44,9 @@
 ![image](https://user-images.githubusercontent.com/75416674/167454363-36747cdc-dbc2-43b5-b5bc-ab6d777d009c.png)
 ![image](https://user-images.githubusercontent.com/75416674/167454409-8b5ae41d-0800-43cd-b534-ca1ada5d4117.png)
 
-*名前：株式市場チェッカーアプリ
+* 名前：株式市場チェッカーアプリ
 * OS：Android
-*言語：Kotlin
-*アーキテクチャ：クリーンなアーキテクチャ
-*機能：株式市場の企業を検索し、企業情報と株式変動を把握します。
-*ライブラリの使用：
+* 言語：Kotlin
+* アーキテクチャ：クリーンなアーキテクチャ
+* 機能：株式市場の企業を検索し、企業情報と株式変動を把握します。
+* ライブラリの使用：
